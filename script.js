@@ -16,7 +16,7 @@ const fakeage = age - DEDUCTION_AGE
 
 console.log ("\n")
 
-console.log (`Hmmmmm, you don't look a day over ${fakeage} `)
+console.log (`Hmmmm, you don't look a day over ${fakeage} `)
 
 console.log ("\n")
 
